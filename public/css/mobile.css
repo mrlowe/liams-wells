@@ -1,0 +1,33 @@
+body {
+	padding:		1em;
+	margin:			0;
+	font-family:		"verdana",sans-serif;
+	background-color:	#858585;
+}
+
+#mainimg {
+	display:		block;
+	margin:			2em auto;
+}
+
+#content {
+	text-align:		center;
+	font-size:		xx-large;
+	font-weight:		bold;
+}
+
+#footer {
+	font-size:		x-large;
+	text-align:		center;
+	margin-top:		2em;
+	line-height:		300%;
+}
+
+a {
+	text-decoration:	none;
+	color:			#FFFFFF;
+}
+
+#liamlink {
+	color:			black;
+}
