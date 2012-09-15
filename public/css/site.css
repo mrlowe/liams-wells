@@ -7,9 +7,9 @@ body {
 	background-color:	#5b3369;
 }
 
-#mainimg {
+#mainimg, #subimg {
 	display:		block;
-	margin:			2em auto;
+	margin:			1em auto;
 }
 
 #content {
@@ -26,7 +26,7 @@ body {
 
 a {
 	text-decoration:	none;
-	color:			#555555;
+	color:			white;
 }
 
 #liamlink {

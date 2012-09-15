@@ -5,9 +5,9 @@ body {
 	background-color:	#5b3369;
 }
 
-#mainimg {
+#mainimg, #subimg {
 	display:		block;
-	margin:			2em auto;
+	margin:			1em auto;
 }
 
 #content {
@@ -20,12 +20,12 @@ body {
 	font-size:		x-large;
 	text-align:		center;
 	margin-top:		2em;
-	line-height:		300%;
+	line-height:		150%;
 }
 
 a {
 	text-decoration:	none;
-	color:			#FFFFFF;
+	color:			white;
 }
 
 #liamlink {
