@@ -14,6 +14,7 @@ body {
 	text-align:		center;
 	font-size:		xx-large;
 	font-weight:		bold;
+    color: #e6e6e6;
 }
 
 #footer {
@@ -25,7 +26,7 @@ body {
 
 a {
 	text-decoration:	none;
-	color:			white;
+	color:			#e6e6e6;
 }
 
 #liamlink {
